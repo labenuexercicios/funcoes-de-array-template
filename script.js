@@ -160,3 +160,4 @@ const pokemonsDeFogo = pokemons.filter((poke) => {
 })
 
 console.log('Pokémons de Fogo', pokemonsDeFogo);
+//
